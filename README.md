@@ -1,11 +1,8 @@
-<!--
-  BANNER: uncomment this block once banner-light.svg and banner-dark.svg are in /assets.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-  <img alt="Saturno Mangieri, Full-Stack Engineer · TypeScript, React, Node.js, PostgreSQL · Shipping LLM features to production with code-level verification" src="assets/banner-light.svg" width="100%">
+  <img alt="Saturno Mangieri. Full-Stack Engineer · TypeScript, React, Node.js, PostgreSQL · Shipping LLM features to production with code-level verification. Available now · Remote, CET (Spain) · Full-time or contract · EU citizen." src="assets/banner-light.svg" width="100%">
 </picture>
--->
 
 ### Hi, I'm Saturno.
 
