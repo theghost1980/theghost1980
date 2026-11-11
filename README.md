@@ -30,7 +30,7 @@ Also: deterministic call classification (voicemail, booked appointments, store h
 
 `TypeScript` `Node.js` `Fastify` `React` `PostgreSQL` `Prisma` `Anthropic SDK (Claude)` `SSE` `Vitest`
 
-▶ Walkthroughs: [Human-in-the-loop coaching table](https://www.loom.com/share/59f18b03076744fb89b7fcecfd23d428) · [AI feedback loop](https://www.loom.com/share/254b03d68dfb492d96b9cb19dd4e4ded)
+▶ Walkthroughs: per request only.
 
 The code is private. A live demo is available on request.
 
